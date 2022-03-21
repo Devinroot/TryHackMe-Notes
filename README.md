@@ -1,0 +1,2 @@
+# TryHackMe-Notes
+Complete Beginner.
